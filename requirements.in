@@ -1,0 +1,16 @@
+jupyter
+requests==2.25.1
+dask
+tqdm
+python-dateutil
+git+https://github.com/trsvchn/calabar.git
+backtrader
+pyfolio
+tqdm
+wheel
+pandas
+dask
+graphviz
+python-dateutil
+backtrader
+pyfolio
